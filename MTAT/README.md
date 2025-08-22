@@ -13,6 +13,11 @@ Note: We have not written scripts for fully automating the reproduction of resul
 
 ---
 
+## Conda Environment  
+
+You can use the same conda environment as for the `sota-music-tagging-models` repository, which should also work for our code.  
+If not, create a new environment using the provided `mtat_req.txt` file. 
+
 ## Preprocessing the Dataset  
 
 1. Download the MTAT dataset into the `data/` folder.  
